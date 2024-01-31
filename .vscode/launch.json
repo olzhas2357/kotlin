@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Director",
+            "request": "launch",
+            "mainClass": "lab3.Director",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "Admin",
+            "request": "launch",
+            "mainClass": "lab3.Admin",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "Manager",
+            "request": "launch",
+            "mainClass": "lab3.Manager",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "Enginer",
+            "request": "launch",
+            "mainClass": "lab3.Enginer",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeTest",
+            "request": "launch",
+            "mainClass": "lab1.EmployeeTest",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "lab1.Employee",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "encapsulation.Main",
+            "projectName": "Java OOP_e70d2e23"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
